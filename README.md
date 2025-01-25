@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Hi there 👋
+## I'm Andrea, an architect turned UX designer studying at ASU 😄
+## When I'm not studying, I work as a UX researcher at ASU 🔭 
+## In my free time i like to discover new music and create art!
 <!--
 **Aantony833/Aantony833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🤔 Link to my behance: https://www.behance.net/andreaantony2/projects 
+### 🌱 View my current portfolio: https://readymag.website/4732381
+### 📈 My github stats! 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aantony833&show_icons=true&theme=gotham" alt="Aantony833" />
